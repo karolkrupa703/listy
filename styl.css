@@ -1,0 +1,10 @@
+.aa{list-style-type: circle;}
+.bb{list-style-type: square;}
+.cc{list-style-type: none;}
+.ee{list-style-type: decimal-leading-zero;}
+.ff{list-style-type: lower-alpha;}
+.gg{list-style-type: upper-alpha;}
+.hh{list-style-type: upper-roman;}
+.ii{list-style-image: url("4.png");}
+ul{color: blue;}
+ol{color: red;}
